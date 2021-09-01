@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Abhishek Mishra 
-- 👀 I’m work on building awesome web applications using React JS
+- 👀 I work on building awesome web applications using React JS
 
 - 📫 How to reach me :- 
     - Email : abhishek@wednesday.is
